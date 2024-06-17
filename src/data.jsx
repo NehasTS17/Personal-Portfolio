@@ -326,7 +326,7 @@ export const portfolio = [
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'https://nehas-Portfolio.netlify.app/',
+        desc: 'https://nehas-portfolio.netlify.app/',
       },
     ],
   },
