@@ -146,7 +146,7 @@ export const resume = [
     category: 'experience',
     icon: <FaBriefcase />,
     year: '2024 - PRESENT',
-    title: 'MERN Developer <span> Freelance </span>',
+    title: 'React Developer <span> Freelance </span>',
     desc: 'Still developing and learning ',
   },
 
@@ -154,9 +154,9 @@ export const resume = [
     id: 2,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2022 - 2023',
-    title: 'Front-end Developer <span> Ulter Fly Connexions </span>',
-    desc: 'I had a one year experience in react',
+    year: '2023 - 2024',
+    title: 'React js Developer <span> Ulter Fly Connexions </span>',
+    desc: 'I have a six month experience in react',
   },
 
   {
@@ -165,7 +165,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: '2022',
     title: 'Internship <span> Phoenix Softech </span>',
-    desc: 'I had a six month internship with final year project',
+    desc: 'I have a six month internship with final year project',
   },
 
   {
