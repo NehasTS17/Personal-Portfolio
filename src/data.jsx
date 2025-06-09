@@ -156,7 +156,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: '2023 - 2024',
     title: 'React js Developer <span> Ulter Fly Connexions </span>',
-    desc: 'I have a six month experience in react',
+    desc: 'I have a 7 month experience in react',
   },
 
   {
@@ -165,7 +165,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: '2022',
     title: 'Internship <span> Phoenix Softech </span>',
-    desc: 'I have a six month internship with final year project',
+    desc: 'I have a 6 month internship with final year project',
   },
 
   {
